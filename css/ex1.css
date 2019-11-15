@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color:black;
+    color:white;
+}
+
+h2{
+    text-align: center;
+    background-color:dodgerblue;
+    color:white;
+}
+
+table{
+    background-color:cornflowerblue;
+    color:white;
+}
+
+body{
+    background-image: url("../images/haikei2.jfif");
+    background-attachment: fixed;
+}
