@@ -1,0 +1,28 @@
+.black{
+    text-align: center;
+    background-color:black;
+    color:white;
+}
+
+.baseball{
+    text-align: center;
+    background-color:darkseagreen;
+    color:chartreuse;
+}
+
+.monhan{
+    text-align: center;
+    background-color:dodgerblue;
+    color:aqua
+}
+
+.link{
+    text-align: center;
+    background-color:brown;
+    color:aliceblue
+}
+
+body{
+    background-image: url("../images/haikei3.jfif");
+    background-attachment: fixed;
+}
